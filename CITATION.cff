@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+
+title: "Data Analytics Portfolio"
+
+message: "If you use or reference this repository, please cite it using the metadata below."
+
+type: software
+
+authors:
+  - family-names: "Majiwa"
+    given-names: "Brian Odhiambo"
+    orcid: "https://orcid.org/0009-0004-6075-4637"
+
+repository-code: "https://github.com/brianmajiwa/Data-Analytics-Portfolio"
+
+url: "https://github.com/brianmajiwa/Data-Analytics-Portfolio"
+
+abstract: >
+  A professional technical portfolio demonstrating data analytics,
+  statistical analysis, business intelligence, SQL, Python,
+  Microsoft Excel, Power BI, data visualization, and evidence-based
+  decision support through practical analytical projects and
+  reproducible workflows.
+
+keywords:
+  - Data Analytics
+  - Business Intelligence
+  - Power BI
+  - SQL
+  - Python
+  - Microsoft Excel
+  - Data Visualization
+  - Statistics
+  - Public Health Analytics
+  - Laboratory Analytics
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: "2026-07-05"
